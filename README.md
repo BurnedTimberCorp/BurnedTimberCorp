@@ -1,206 +1,216 @@
-# 🌲 Burned Timber Co.
+# 🌲 Burned Timber Corp
 
-> **Crafted by Hand. Built to Last.**
+> **Beautifully Engraved Wooden Products Crafted with Precision**
 
-Welcome to the official website repository for **Burned Timber Co.** We specialize in handcrafted woodworking, custom laser engraving, and personalized home décor. Every piece is carefully designed and built to combine quality craftsmanship with timeless rustic style.
-
----
-
-## About
-
-Burned Timber Co. creates handcrafted wood products that are both functional and meaningful. Our mission is to transform quality lumber into lasting memories through custom woodworking and precision laser engraving.
-
-Whether you're searching for a personalized gift, custom home décor, or a one-of-a-kind piece, we take pride in building products that are made to last.
+Welcome to the official repository for **Burned Timber Corp** – your premier source for custom-engraved wooden products in Whitby, Ontario. We specialize in transforming quality wood into personalized keepsakes that last a lifetime.
 
 ---
 
-## Features
+## 🎯 About Us
 
-- 🌲 Responsive modern website
-- 📱 Mobile-friendly design
-- 🖼️ Product gallery
-- ✨ Smooth scrolling navigation
-- 📧 Contact section
-- ⚡ Fast loading
-- 🎨 Rustic wood-inspired design
-- 🔍 SEO-friendly structure
+At **Burned Timber Corp**, we believe that the finest gifts are those that carry meaning. Our passion for woodcraft and precision engraving allows us to create stunning, personalized wooden products that celebrate life's special moments.
+
+Every item is carefully handcrafted using premium materials and finished with professional-grade engraving techniques. Whether you're looking for a corporate award, a heartfelt gift, or a unique piece of home décor, we bring your vision to life with exceptional quality and attention to detail.
+
+**Location:** Whitby, Ontario, Canada
 
 ---
 
-## Products
+## 🛍️ Our Products
 
-### 🖼️ Custom Engraved Frames
-Personalized hardwood frames featuring laser engraved names, artwork, portraits, and meaningful keepsakes.
-
-### 🪵 Decorative Wooden Crates
-Rustic cedar crates perfect for:
-
+### 🧺 Engraved Wooden Baskets
+Custom-engraved wooden baskets perfect for:
+- Storage and organization
+- Gift presentation
 - Home décor
-- Wedding centerpieces
-- Gift baskets
-- Storage
-- Seasonal displays
+- Wedding decorations
+- Corporate gifting
 
-### 🎁 Personalized Gifts
+### 🏆 Engraved Plaques
+Elegant wooden plaques ideal for:
+- Awards and recognition
+- Memorial plaques
+- Office displays
+- Achievements and milestones
+- Business branding
 
-Custom engraved gifts including:
+### 🎄 Engraved Ornaments & Decorations
+Unique wooden ornaments featuring:
+- Seasonal designs
+- Custom engravings
+- Various shapes and sizes
+- Holiday decorations
+- Year-round displays
 
-- Family signs
-- Memorial pieces
-- Wedding gifts
-- Anniversary gifts
-- Business logos
-- Pet portraits
-
----
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- Google Fonts
+### ✨ Coming Soon
+We're constantly expanding our collection with exciting new engraved wooden products and custom projects!
 
 ---
 
-## Project Structure
+## ✨ Website Features
+
+- 🌲 **Responsive Design** – Beautiful on all devices (desktop, tablet, mobile)
+- 📱 **Mobile Optimized** – Fast loading and smooth navigation
+- 🎨 **Brown Wood Theme** – Rustic, elegant aesthetic
+- 🔄 **Smooth Scrolling** – Seamless navigation between sections
+- 📧 **Contact Form** – Easy customer inquiries
+- 🌐 **SEO-Friendly** – Professional structure for search visibility
+- ⚡ **Fast Performance** – Optimized code and minimal dependencies
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Semantic markup structure
+- **CSS3** – Advanced styling with CSS variables and gradients
+- **JavaScript** – Interactive features and smooth scrolling
+- **Font Awesome Icons** – Professional iconography
+- **Responsive Design** – Mobile-first approach
+
+---
+
+## 📁 Project Structure
 
 ```
-Burned-Timber-Co/
+BurnedTimberCorp/
 │
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── frames/
-│   ├── crates/
-│   └── gallery/
+├── index.html          # Main website file
+├── styles.css          # Professional styling (9,500+ lines)
+├── script.js           # Interactive functionality
+├── README.md           # Documentation
 │
-└── README.md
+└── images/            # (To be added)
+    ├── products/
+    ├── gallery/
+    └── hero/
 ```
 
 ---
 
-## Screenshots
+## 🚀 Getting Started
 
-Add screenshots of your website here once complete.
-
-Example:
-
-```
-images/
-    homepage.png
-    gallery.png
-    mobile-view.png
-```
-
----
-
-## Installation
+### Installation
 
 Clone the repository:
-
 ```bash
-git clone https://github.com/yourusername/burned-timber-co.git
+git clone https://github.com/BurnedTimberCorp/BurnedTimberCorp.git
+cd BurnedTimberCorp
 ```
 
-Open the project:
+### Viewing the Website
 
+**Option 1:** Open directly in browser
 ```bash
-cd burned-timber-co
+# Simply double-click index.html
 ```
 
-Launch the website by opening:
+**Option 2:** Use VS Code Live Server
+1. Install "Live Server" extension in VS Code
+2. Right-click `index.html`
+3. Select "Open with Live Server"
 
-```
-index.html
-```
-
-or use VS Code Live Server.
-
----
-
-## Custom Orders
-
-We specialize in custom projects including:
-
-- Laser engraving
-- Personalized picture frames
-- Wooden crates
-- Home décor
-- Wedding décor
-- Family signs
-- Business signage
-- Custom woodworking
-
-If you have an idea, we'd love to build it.
+**Option 3:** Deploy to GitHub Pages
+1. Go to repository **Settings**
+2. Navigate to **Pages**
+3. Select **main** branch as source
+4. Your site will be live at: `https://burnedtimbercorp.github.io/BurnedTimberCorp/`
 
 ---
 
-## Future Improvements
+## 💬 Contact & Business Info
 
-- Online Store
-- Shopping Cart
-- Secure Checkout
-- Customer Reviews
-- Product Filtering
-- Image Lightbox
-- Quote Request Form
-- Admin Dashboard
-- Inventory Management
-- Dark Mode
-- Blog Section
+**📧 Email:** [BurnedTimberCorp@gmail.com](mailto:BurnedTimberCorp@gmail.com)  
+**📍 Location:** Whitby, Ontario, Canada  
+**🌐 Website:** [View Live](https://burnedtimbercorp.github.io/BurnedTimberCorp/)
 
 ---
 
-## Contributing
+## 🎯 Custom Orders
 
-Contributions, ideas, and suggestions are welcome.
+We specialize in personalized projects including:
 
-1. Fork the repository
-2. Create a feature branch
+- ✅ Custom laser engraving
+- ✅ Personalized wooden baskets
+- ✅ Engraved plaques and awards
+- ✅ Seasonal ornaments and decorations
+- ✅ Corporate gifting
+- ✅ Wedding and event décor
+- ✅ Memorial pieces
+- ✅ Family name signs
+- ✅ Business branding on wood
+- ✅ Unique custom requests
 
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
+**Have an idea?** We'd love to bring it to life! Contact us for a custom quote.
 
 ---
 
-## License
+## 📈 Future Roadmap
 
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-**Burned Timber Co.**
-
-📧 Email: info@burnedtimberco.com
-
-🌐 Website: Coming Soon
-
----
-
-## Our Mission
-
-At Burned Timber Co., we believe every piece of wood has a story waiting to be told. Through quality craftsmanship, thoughtful design, and personalized engraving, we create heirloom-quality pieces that celebrate life's moments and become part of your family's story for years to come.
+- 🛒 **Online Store** – E-commerce integration
+- 💳 **Secure Checkout** – Payment processing
+- ⭐ **Customer Reviews** – Testimonials section
+- 🖼️ **Product Gallery** – High-quality image showcase
+- 📋 **Order Tracking** – Real-time order status
+- 🎨 **Design Preview** – Interactive customization tool
+- 📞 **Live Chat** – Customer support
+- 📸 **Before/After Gallery** – Portfolio showcase
+- 🔐 **Admin Dashboard** – Order management
+- 📰 **Blog Section** – Tips and inspiration
 
 ---
 
-### Crafted by Hand. Built to Last. 🌲🔥
+## 🖼️ Screenshots
+
+Coming soon! We'll add screenshots of the website once the full portfolio is complete.
+
+---
+
+## 💡 Contributing
+
+We welcome feedback, suggestions, and contributions!
+
+1. **Fork** the repository
+2. **Create** a feature branch
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. **Commit** your changes
+   ```bash
+   git commit -m "Add: description of your feature"
+   ```
+4. **Push** to your branch
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. **Open** a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – feel free to use it as a template for your own projects.
+
+---
+
+## 🌟 Our Commitment
+
+At **Burned Timber Corp**, we're committed to:
+
+✅ **Quality** – Premium materials and expert craftsmanship  
+✅ **Precision** – Professional-grade laser engraving  
+✅ **Customization** – Personalized designs tailored to you  
+✅ **Service** – Responsive customer support  
+✅ **Reliability** – Timely delivery and satisfaction guaranteed
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting Burned Timber Corp! We're excited to create something beautiful and meaningful for you.
+
+**Crafted by Hand. Built to Last.** 🌲🔥
+
+---
+
+**Last Updated:** June 2026  
+**Maintained by:** Burned Timber Corp Team
